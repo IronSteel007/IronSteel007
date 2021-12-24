@@ -66,14 +66,13 @@ I'm a full stack developer...
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=IronSteel007&show_icons=true&locale=en" alt="IronSteel007" /></p>
 
-[website]: https://TechHelpBD.com
-[facebook]: https://facebook.com/MahbubDev
-[twitter]: https://twitter.com/mahbubdev
-[youtube]: https://youtube.com/TechHelpBangladesh
-[instagram]: https://instagram.com/mahbubdev/
-[linkedin]: https://linkedin.com/in/mahbubdev
-[telegram]: https://t.me/TechHelpBangladesh
-
+[website]: https://www.youcode.ma
+[facebook]: https://www.youcode.ma
+[twitter]: https://www.youcode.ma
+[youtube]: https://www.youcode.ma
+[instagram]: https://www.youcode.ma
+[linkedin]: https://www.youcode.ma
+[telegram]: https://www.youcode.ma
 
 ## Badges
 
