@@ -4,9 +4,9 @@
 <h1 align="center">Hi <img src="https://github.com/IronSteel007/IronSteel007/blob/main/Wave.gif" height="55px" width="55px">, I'm IronSteel007</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
-Programmer | Content Creator | Learner
+Web and mobile Programmer | Web and mobile Designer | Learner | Researcher
 
-?></h3>
+</h3>
 
 - 🔭 I’m currently working on **Web and mobile Development**
 
@@ -26,7 +26,7 @@ I'm a full stack developer...
 
 ### Connect with me:
 
-[<img align="left" alt="TechHelpBD.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="youcode.ma" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="IronSteel007 | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
 [<img align="left" alt="IronSteel007 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="IronSteel007 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -83,12 +83,6 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 ![YouTube Video Views](https://img.shields.io/youtube/views/ddd?style=social)
-
-
-## Authors
-
-- [@katherinepeterson](https://www.github.com/octokatherine)
-
 
 ## Used By
 This project is used by the following companies:
