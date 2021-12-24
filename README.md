@@ -1,13 +1,5 @@
 ### Hi there 👋
-# Yahya Kouzbour
 
-A brief description of what this project does and who it's for
-
-![example event parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=pull_request)
-
-
-## 🚀 About Me
-I'm a full stack developer...
 
 <h1 align="center">Hi <img src="https://github.com/IronSteel007/IronSteel007/blob/main/Wave.gif" height="55px" width="55px">, I'm IronSteel007</h1>
 <h3 align="center">¯\_(ツ)_/¯
@@ -27,6 +19,10 @@ Programmer | Content Creator | Learner
 - 📫 How to reach me **yahya.kouzbour.tech@gmail.com**
 
 - ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
+
+## 🚀 About Me
+I'm a full stack developer...
+
 
 ### Connect with me:
 
