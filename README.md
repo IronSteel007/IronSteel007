@@ -23,6 +23,8 @@ Web and mobile Programmer | Web and mobile Designer | Learner | Researcher
 ## 🚀 About Me
 I'm a full stack developer...
 
+<img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
+
 
 ### Connect with me:
 
